@@ -20,7 +20,7 @@ function App() {
 
   const handleSubmit = (event) => {
     event.preventDefault()
-    setShowPreview(true) // Show the preview after submitting
+    setShowPreview(true) 
   }
 
   return (
